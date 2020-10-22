@@ -6,6 +6,13 @@
     <title>Document</title>
 </head>
 <body>
-    <h1>asdasasdasdas</h1>
+    <h1>Esta nueva version v2 php</h1>
+    <p>Esto es lo nuevo</p>
+
+    <?php
+
+    echo "solucionando conflictos";
+
+?>
 </body>
 </html>
